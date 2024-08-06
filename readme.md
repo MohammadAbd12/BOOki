@@ -2,16 +2,16 @@
 
 **BOOki** is a full authentication and CRUD application built on the MERN stack. This project implements user authentication and provides a robust interface for managing books in a library setting. It utilizes the [Vite](https://vite.dev) build tool for a smooth development experience.
 
-<img src="./frontend/public/admin dash.png" alt="Admin Dashboard" width="600"/>
-<img src="./frontend/public/user dash.png" alt="User Dashboard" width="600"/>
-<img src="./frontend/public/register.png" alt="Registration Page" width="600"/>
-<img src="./frontend/public/register2.png" alt="Registration Page 2" width="600"/>
-<img src="./frontend/public/update.png" alt="Update Page" width="600"/>
-<img src="./frontend/public/books.png" alt="Books Page" width="600"/>
-<img src="./frontend/public/home.png" alt="Home Page" width="600"/>
-<img src="./frontend/public/edit.png" alt="Edit Page" width="600"/>
-<img src="./frontend/public/log.png" alt="Login Page" width="600"/>
-<img src="./frontend/public/users.png" alt="Users Page" width="600"/>
+![Admin Dashboard](https://raw.githubusercontent.com/MohammadAbd12/BOOki/main/frontend/public/admin%20dash.png)
+![User Dashboard](https://raw.githubusercontent.com/MohammadAbd12/BOOki/main/frontend/public/user%20dash.png)
+![Registration Page](https://raw.githubusercontent.com/MohammadAbd12/BOOki/main/frontend/public/register.png)
+![Registration Page 2](https://raw.githubusercontent.com/MohammadAbd12/BOOki/main/frontend/public/register2.png)
+![Update Page](https://raw.githubusercontent.com/MohammadAbd12/BOOki/main/frontend/public/update.png)
+![Books Page](https://raw.githubusercontent.com/MohammadAbd12/BOOki/main/frontend/public/books.png)
+![Home Page](https://raw.githubusercontent.com/MohammadAbd12/BOOki/main/frontend/public/home.png)
+![Edit Page](https://raw.githubusercontent.com/MohammadAbd12/BOOki/main/frontend/public/edit.png)
+![Login Page](https://raw.githubusercontent.com/MohammadAbd12/BOOki/main/frontend/public/log.png)
+![Users Page](https://raw.githubusercontent.com/MohammadAbd12/BOOki/main/frontend/public/users.png)
 
 ## Features
 
@@ -37,3 +37,4 @@
 ### Environment Variables
 
 Rename the `.env.example` file to `.env` and add the following variables:
+
