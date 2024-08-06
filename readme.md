@@ -2,17 +2,16 @@
 
 **BOOki** is a full authentication and CRUD application built on the MERN stack. This project implements user authentication and provides a robust interface for managing books in a library setting. It utilizes the [Vite](https://vite.dev) build tool for a smooth development experience.
 
-![Admin Dashboard](https://i.imgur.com/your_admin_dashboard_image.png)
-![User Dashboard](https://i.imgur.com/your_user_dashboard_image.png)
-![Registration Page](https://i.imgur.com/your_registration_image.png)
-![Registration Page 2](https://i.imgur.com/your_registration_page_2_image.png)
-![Update Page](https://i.imgur.com/your_update_image.png)
-![Books Page](https://i.imgur.com/your_books_image.png)
-![Home Page](https://i.imgur.com/your_home_image.png)
-![Edit Page](https://i.imgur.com/your_edit_image.png)
-![Login Page](https://i.imgur.com/your_login_image.png)
-![Users Page](https://i.imgur.com/your_users_image.png)
-
+![Admin Dashboard](./public/admin_dashboard.png)
+![User Dashboard](./public/user_dashboard.png)
+![Registration Page](./public/registration.png)
+![Registration Page 2](./public/registration_page_2.png)
+![Update Page](./public/update.png)
+![Books Page](./public/books.png)
+![Home Page](./public/home.png)
+![Edit Page](./public/edit.png)
+![Login Page](./public/login.png)
+![Users Page](./public/users.png)
 
 ## Features
 
@@ -38,4 +37,3 @@
 ### Environment Variables
 
 Rename the `.env.example` file to `.env` and add the following variables:
-
