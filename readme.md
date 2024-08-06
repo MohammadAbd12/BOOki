@@ -2,16 +2,16 @@
 
 **BOOki** is a full authentication and CRUD application built on the MERN stack. This project implements user authentication and provides a robust interface for managing books in a library setting. It utilizes the [Vite](https://vite.dev) build tool for a smooth development experience.
 
-![Admin Dashboard](./frontend/public/admin dash.png)
-![User Dashboard](./frontend/public/user dash.png)
-![Registration Page](./frontend/public/register.png)
-![Registration Page 2](./frontend/public/register2.png)
-![Update Page](./frontend/public/update.png)
-![Books Page](./frontend/public/books.png)
-![Home Page](./frontend/public/home.png)
-![Edit Page](./frontend/public/edit.png)
-![Login Page](./frontend/public/log.png)
-![Users Page](./frontend/public/users.png)
+<img src="./frontend/public/admin dash.png" alt="Admin Dashboard" width="600"/>
+<img src="./frontend/public/user dash.png" alt="User Dashboard" width="600"/>
+<img src="./frontend/public/register.png" alt="Registration Page" width="600"/>
+<img src="./frontend/public/register2.png" alt="Registration Page 2" width="600"/>
+<img src="./frontend/public/update.png" alt="Update Page" width="600"/>
+<img src="./frontend/public/books.png" alt="Books Page" width="600"/>
+<img src="./frontend/public/home.png" alt="Home Page" width="600"/>
+<img src="./frontend/public/edit.png" alt="Edit Page" width="600"/>
+<img src="./frontend/public/log.png" alt="Login Page" width="600"/>
+<img src="./frontend/public/users.png" alt="Users Page" width="600"/>
 
 ## Features
 
