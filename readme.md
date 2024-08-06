@@ -2,7 +2,16 @@
 
 **BOOki** is a full authentication and CRUD application built on the MERN stack. This project implements user authentication and provides a robust interface for managing books in a library setting. It utilizes the [Vite](https://vite.dev) build tool for a smooth development experience.
 
-![Screenshot](./frontend/public/screen.png)
+![Admin Dashboard](./frontend/public/admin dash.png)
+![User Dashboard](./frontend/public/user dash.png)
+![Registration Page](./frontend/public/register.png)
+![Registration Page 2](./frontend/public/register2.png)
+![Update Page](./frontend/public/update.png)
+![Books Page](./frontend/public/books.png)
+![Home Page](./frontend/public/home.png)
+![Edit Page](./frontend/public/edit.png)
+![Login Page](./frontend/public/log.png)
+![Users Page](./frontend/public/users.png)
 
 ## Features
 
@@ -28,4 +37,3 @@
 ### Environment Variables
 
 Rename the `.env.example` file to `.env` and add the following variables:
-
