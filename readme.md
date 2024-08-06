@@ -1,62 +1,31 @@
-# MERN Authentication Starter
+# BOOki
 
-This is a starter app for a MERN stack application with authentication. This is for a SPA (Single Page Application) workflow that uses the [Vite](https://vite.dev) Build tool. This authentication workflow is based off of my [MERN Stack From Scratch | eCommerce](https://www.traversymedia.com/mern-stack-from-scratch) course.
+**BOOki** is a full authentication and CRUD application built on the MERN stack. This project implements user authentication and provides a robust interface for managing books in a library setting. It utilizes the [Vite](https://vite.dev) build tool for a smooth development experience.
 
-<img src="./frontend/public/screen.png" />
+![Screenshot](./frontend/public/screen.png)
 
-It includes the following:
+## Features
 
-- Backend API with Express & MongoDB
-- Routes for auth, logout, register, profile, update profile
-- JWT authentication stored in HTTP-only cookie
-- Protected routes and endpoints
-- Custom middleware to check JSON web token and store in cookie
-- Custom error middleware
-- React frontend to register, login, logout, view profile, and update profile
-- React Bootstrap UI library
-- React Toastify notifications
+- **Backend**: Built with Express & MongoDB
+  - Routes for authentication, logout, registration, profile management, and book CRUD operations
+  - JWT authentication stored in HTTP-only cookies
+  - Protected routes and endpoints
+  - Custom middleware for verifying JSON web tokens and storing them in cookies
+  - Custom error handling middleware
+
+- **Frontend**: Developed with React
+  - User interfaces for registration, login, logout, profile viewing, updating user profiles, and managing books
+  - Utilizes React Bootstrap for UI components
+  - Notifications implemented with React Toastify
 
 ## Usage
 
-- Create a MongoDB database and obtain your `MongoDB URI` - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register)
-- Create a PayPal account and obtain your `Client ID` - [PayPal Developer](https://developer.paypal.com/)
+### Prerequisites
 
-### Env Variables
+1. **MongoDB**: Create a MongoDB database and obtain your `MongoDB URI` from [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register).
+2. **PayPal**: (If applicable) Create a PayPal account and obtain your `Client ID` from [PayPal Developer](https://developer.paypal.com/).
 
-Rename the `.env.example` file to `.env` and add the following
+### Environment Variables
 
-```
-NODE_ENV = development
-PORT = 5000
-MONGO_URI = your mongodb uri
-JWT_SECRET = 'abc123'
-```
+Rename the `.env.example` file to `.env` and add the following variables:
 
-Change the JWT_SECRET to what you want
-
-### Install Dependencies (frontend & backend)
-
-```
-npm install
-cd frontend
-npm install
-```
-
-### Run
-
-```
-
-# Run frontend (:3000) & backend (:5000)
-npm run dev
-
-# Run backend only
-npm run server
-```
-
-## Build & Deploy
-
-```
-# Create frontend prod build
-cd frontend
-npm run build
-```
